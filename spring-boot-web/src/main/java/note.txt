@@ -1,0 +1,4 @@
+文字转ascii
+http://www.network-science.de/ascii/
+图片转ascii
+http://www.degraeve.com/img2txt.php
