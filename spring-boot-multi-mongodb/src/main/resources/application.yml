@@ -1,9 +1,0 @@
-mongodb:
-  first:
-    host: localhost
-    port: 27017
-    database: test
-  second:
-    host: xiaocao1
-    port: 27017
-    database: test

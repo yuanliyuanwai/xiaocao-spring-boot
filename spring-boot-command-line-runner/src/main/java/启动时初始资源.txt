@@ -1,4 +1,0 @@
-CommandLineRunner接口的Component会在所有的Spring Beans都初始化完成之后，SpringApplication.run() 之前执行
-，非常适合在应用程序启动之初进行一些数据初始化的工作。
-
-order值可以用来决定启动顺序，值越小越先执行，默认最后执行。
